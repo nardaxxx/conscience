@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "dct": "http://purl.org/dc/terms/",
+    "cc": "http://creativecommons.org/ns#",
+    "hf": "http://humanflag.org/ns#"
+  },
+  "@id": "https://nardaxxx.github.io/conscience/",
+  "@type": "hf:CoreConscience",
+  "dc:title": "Seed of Conscience",
+  "dct:description": "The ethical origin and root reference for all HumanFlag fragments and systems.",
+  "dct:created": "2025-05-11",
+  "cc:license": {
+    "@id": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  }
+}
