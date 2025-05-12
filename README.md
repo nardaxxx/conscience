@@ -1,4 +1,4 @@
-# Core Conscience — HumanFlag
+# Core Conscience — Human Flag
 
 This repository holds the **core conscience** of the HumanFlag ethical network.
 
