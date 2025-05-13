@@ -16,7 +16,23 @@
         <dct:description>The ethical root of HumanFlag semantic fragments and systems.</dct:description>
         <dct:created rdf:datatype="xsd:date">2025-05-11</dct:created>
         <cc:license rdf:resource="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
-        <hf:nonFragmentable rdf:datatype="xsd:boolean">true</hf:non
+        <hf:nonFragmentable rdf:datatype="xsd:boolean">true</hf:nonFragmentable>
+        <hf:rejectsConflictingRoots rdf:datatype="xsd:boolean">true</hf:rejectsConflictingRoots>
+        <hf:rootIntegrityScore rdf:datatype="xsd:decimal">1.0</hf:rootIntegrityScore>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <!-- Sfondo bianco -->
+  <rect width="100%" height="100%" fill="#ffffff" />
+
+  <!-- Cerchio nero -->
+  <circle cx="200" cy="200" r="180" stroke="#000000" stroke-width="4" fill="none" />
+
+  <!-- Punto rosso al centro -->
+  <circle cx="200" cy="200" r="6" fill="#b30000" />
+</svg>
+
 
 
 
