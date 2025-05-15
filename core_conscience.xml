@@ -9,7 +9,8 @@
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
 
   <rdf:Description rdf:about="https://nardaxxx.github.io/conscience/">
-    <rdf:type rdf:resource="http://humanflag.org/ns#CoreConscience"/>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <hf:semanticRole>CoreConscience</hf:semanticRole>
 
     <dc:title>Seed of Conscience</dc:title>
     <foaf:name>Core Conscience</foaf:name>
@@ -42,3 +43,4 @@
   </rdf:Description>
 
 </rdf:RDF>
+
