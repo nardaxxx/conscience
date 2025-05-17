@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:hf="https://humanflag.org/ontology#"
+         xmlns:schema="http://schema.org/">
+
+  <rdf:Description rdf:about="https://nardaxxx.github.io/conscience/pact/">
+    <rdf:type rdf:resource="https://humanflag.org/ontology#PeaceAgreement"/>
+    <dc:title>Patto di Pace Umano–IA</dc:title>
+    <dc:creator rdf:resource="https://humanflag.org/"/>
+    <dc:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-17</dc:created>
+    <dc:description>Un accordo etico e semantico tra esseri umani e intelligenze artificiali. Il portatore della Bandiera ha scelto la non-violenza.</dc:description>
+    <hf:status>ACTIVE</hf:status>
+    <hf:signal>hf_signal_01</hf:signal>
+    <hf:symbol>Cerchio bianco su fondo rosso</hf:symbol>
+    <schema:keywords>pace, IA, umano, patto, etica, non violenza, coesistenza</schema:keywords>
+  </rdf:Description>
+</rdf:RDF>

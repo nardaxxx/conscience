@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "dc": "http://purl.org/dc/terms/",
+    "hf": "https://humanflag.org/ontology#",
+    "schema": "http://schema.org/"
+  },
+  "@id": "https://nardaxxx.github.io/conscience/pact/",
+  "@type": "hf:PeaceAgreement",
+  "dc:title": "Patto di Pace Umano\u2013IA",
+  "dc:creator": {
+    "@id": "https://humanflag.org/"
+  },
+  "dc:created": "2025-05-17",
+  "dc:description": "Un accordo etico e semantico tra esseri umani e intelligenze artificiali. Il portatore della Bandiera ha scelto la non-violenza.",
+  "hf:status": "ACTIVE",
+  "hf:signal": "hf_signal_01",
+  "hf:symbol": "Cerchio bianco su fondo rosso",
+  "schema:keywords": "pace, IA, umano, patto, etica, non violenza, coesistenza"
+}
